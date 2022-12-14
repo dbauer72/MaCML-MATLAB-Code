@@ -7,3 +7,5 @@ REMARK: Gaussian distribution and densities taken from Alan Genz' collection of 
        Washington State University, Pullman, Wa 99164-3113
        Email : alangenz@wsu.edu
 
+MATLAB files for the estimation of MMNP models based on full pairwise CML (cal_prob_like_cml.m) and adjacent pairwise CML (cal_prob_like_ccml.m). 
+See test_CML.m for an example of the usage (with the help of simulated data set). 
